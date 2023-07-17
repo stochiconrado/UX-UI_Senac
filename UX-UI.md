@@ -1,4 +1,4 @@
-# UC1: Criar projetos de design em UX/UI.
+# Criar projetos de design em UX/UI.
 
 ### Indicadores
   1. Elabora proposta comercial, conforme necessiidade do cliente (focar pra quem é a solução, não quem compra a solução)
